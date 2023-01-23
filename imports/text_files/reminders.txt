@@ -1,0 +1,4 @@
+Sunday, Thursday, Day Sensitive Reminder
+Monday, something that happens every Monday
+Today, Reminder for now that appears always until deleted
+ 

@@ -1,0 +1,11 @@
+{
+    "Reminder File Location" : "imports/text_files/reminders.txt",
+    "Shopping File Location" : "imports/text_files/shopping.txt",
+    "Tides File Location" : "imports/text_files/tides.txt",
+    "Episodes File Location" : "imports/text_files/episodes.txt",
+    "Watch Charge Day" : "Tuesday",
+    "Watch File Location" : "imports/text_files/watch_last_charged.txt",
+    "Moon Phase File" : "imports/text_files/moon_phase.txt",
+    "Urgent Reminders File" : "imports/text_files/urgent_reminders.txt"
+
+}
